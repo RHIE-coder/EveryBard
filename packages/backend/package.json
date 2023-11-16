@@ -1,0 +1,11 @@
+{
+  "name": "@everybard/backend",
+  "version": "0.0.1",
+  "description": "everybard backend",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "rhie-coder",
+  "license": "LGPL-2.1"
+}

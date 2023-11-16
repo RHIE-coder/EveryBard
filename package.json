@@ -1,0 +1,28 @@
+{
+  "name": "everybard",
+  "version": "0.0.1",
+  "description": "the place where everyone can chat freely",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
+  "scripts": {
+    "test": "lerna run test",
+    "run-front": "lerna run run-test --scope @everybard/frontend",
+    "run-sample1": "lerna run run-test",
+    "run-sample2": "lerna run build --scope jsoncheck"
+  },
+  "keywords": [
+    "chatting"
+  ],
+  "author": "rhie-coder",
+  "license": "LGPL-2.1",
+  "devDependencies": {
+    "@nx/jest": "^17.1.2",
+    "@types/jest": "^29.5.8",
+    "lerna": "^7.4.2",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

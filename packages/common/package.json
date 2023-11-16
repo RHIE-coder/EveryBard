@@ -1,0 +1,11 @@
+{
+  "name": "@everybard/common",
+  "version": "0.0.1",
+  "description": "everybard common",
+  "main": "main.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "rhie-coder",
+  "license": "LGPL-2.1"
+}

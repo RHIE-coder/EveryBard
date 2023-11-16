@@ -1,0 +1,15 @@
+{
+  "name": "@everybard/frontend",
+  "version": "0.0.1",
+  "description": "everybard frontend",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "Seulji-jo",
+  "license": "LGPL-2.1",
+  "dependencies": {
+    "@everybard/common": "^0.0.1"
+  }
+}
