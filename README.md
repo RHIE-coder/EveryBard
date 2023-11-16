@@ -7,6 +7,8 @@
 
 저희 프로젝트의 Commit 메시지 정책은 [git-styleguide](https://udacity.github.io/git-styleguide/)을 따릅니다
 
+#### - Strategy: `Github-Flow`
+
 <br><br>
 
 ### `Pull Request`
